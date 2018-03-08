@@ -1,14 +1,11 @@
-# 北京邮电大学计算机考研
+# See you in BUPT
 北京邮电大学计算机考研报考资料、复试资料汇总 for 2019 --by 凝紫暮   
 
-> 汇总信息详见 `北京邮电大学计算机考研信息汇总.md`文件。    或者  
-  [CSDN：北京邮电大学计算机考研信息汇总](http://blog.csdn.net/qq_26815027/article/details/79129454)  
+> CSDN链接：[北京邮电大学计算机考研信息汇总](http://blog.csdn.net/qq_26815027/article/details/79129454)  
+> 适用报考范围：  **计算机学院**、**网络技术研究院**、**网络空间安全学院**、**软件学院**    
+> QQ交流群：**460294132**   
 
-> 适用报考范围：  
-**计算机学院**、**网络技术研究院**、**网络空间安全学院**、**软件学院**    
-> QQ交流群：460294132
-
-# 北京邮电大学
+# 北京邮电大学计算机考研信息汇总
 
 [![GitHub issues](https://img.shields.io/github/issues/ningzimu/See_you_in_BUPT.svg?style=plastic)](https://github.com/ningzimu/See_you_in_BUPT/issues)  [![GitHub forks](https://img.shields.io/github/forks/ningzimu/See_you_in_BUPT.svg)](https://github.com/ningzimu/See_you_in_BUPT/network)  [![GitHub watchers](https://img.shields.io/github/watchers/ningzimu/See_you_in_BUPT.svg?style=social&label=Watch&style=plastic)](https://github.com/ningzimu/See_you_in_BUPT/watchers) [![GitHub Star](https://img.shields.io/github/stars/ningzimu/See_you_in_BUPT.svg)](https://github.com/ningzimu/See_you_in_BUPT/stargazers)
 
