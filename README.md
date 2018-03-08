@@ -3,7 +3,8 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/ningzimu/See_you_in_BUPT.svg?style=social&label=Watch&style=plastic)](https://github.com/ningzimu/See_you_in_BUPT/watchers)  [![GitHub Star](https://img.shields.io/github/stars/ningzimu/See_you_in_BUPT.svg)](https://github.com/ningzimu/See_you_in_BUPT/stargazers)  [![GitHub forks](https://img.shields.io/github/forks/ningzimu/See_you_in_BUPT.svg)](https://github.com/ningzimu/See_you_in_BUPT/network)  [![GitHub issues](https://img.shields.io/github/issues/ningzimu/See_you_in_BUPT.svg?style=plastic)](https://github.com/ningzimu/See_you_in_BUPT/issues)  
 北京邮电大学计算机考研报考资料、复试资料汇总 for 2019 --by 凝紫暮   
 
-> CSDN链接：[北京邮电大学计算机考研信息汇总](http://blog.csdn.net/qq_26815027/article/details/79129454)  
+> CSDN：[北京邮电大学计算机考研信息汇总](http://blog.csdn.net/qq_26815027/article/details/79129454)   
+> GitHub Pages:[北京邮电大学计算机考研信息汇总](https://ningzimu.github.io/See_you_in_BUPT)   
 > 适用报考范围：  **计算机学院**、**网络技术研究院**、**网络空间安全学院**、**软件学院**    
 > QQ交流群：**460294132**   
 
@@ -118,26 +119,26 @@
 
 ### 招生专业目录  
 #### 1. 计算机学院招生目录   
-[2016年计算机学院硕士研究生招生专业目录](http://p235kcav5.bkt.clouddn.com/2016%E5%B9%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2%E7%A1%95%E5%A3%AB%E6%8B%9B%E7%94%9F%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95.jpg)  
-[2017年计算机学院硕士研究生招生专业目录](http://p235kcav5.bkt.clouddn.com/2017%E5%B9%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2%E7%A1%95%E5%A3%AB%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95.docx)	    
+[2016年计算机学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016年计算机学院硕士招生专业目录.jpg)  
+[2017年计算机学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年计算机学院硕士专业目录.docx)	    
 [2018年计算机学院硕士研究生招生专业目录](http://p235kcav5.bkt.clouddn.com/2018%E5%B9%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2%E7%A1%95%E5%A3%AB%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95.docx)
 #### 2. 网络技术研究院招生目录   
-[2016年网络技术研究院硕士研究生招生专业目录](http://p235kcav5.bkt.clouddn.com/2016%E5%B9%B4%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E9%99%A2%E7%A1%95%E5%A3%AB%E6%8B%9B%E7%94%9F%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95.jpg)      
-[2017年网络技术研究院硕士研究生招生专业目录](http://p235kcav5.bkt.clouddn.com/2017%E5%B9%B4%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E9%99%A2%E7%A1%95%E5%A3%AB%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95.docx)	         
+[2016年网络技术研究院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016年网络技术研究院硕士招生专业目录.jpg)      
+[2017年网络技术研究院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网络技术研究院硕士专业目录.docx)	         
 [2018年网络技术研究院硕士研究生招生专业目录](http://p235kcav5.bkt.clouddn.com/2018%E5%B9%B4%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E9%99%A2%E7%A1%95%E5%A3%AB%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95.docx)	
 #### 3. 网络空间安全学院招生目录  
-[2017年网络空间安全学院硕士研究生招生专业目录](http://p235kcav5.bkt.clouddn.com/2017%E5%B9%B4%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%AE%89%E5%85%A8%E5%AD%A6%E9%99%A2%E7%A1%95%E5%A3%AB%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95.docx)	     
+[2017年网络空间安全学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网络空间安全学院硕士专业目录.docx)	     
 [2018年网络空间安全学院硕士研究生招生专业目录](http://p235kcav5.bkt.clouddn.com/2018%E5%B9%B4%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%AE%89%E5%85%A8%E5%AD%A6%E9%99%A2%E7%A1%95%E5%A3%AB%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95.docx)
 #### 4. 软件学院招生目录  
-[2017年软件学院硕士研究生招生专业目录](http://p235kcav5.bkt.clouddn.com/2017%E5%B9%B4%E8%BD%AF%E4%BB%B6%E5%AD%A6%E9%99%A2%E7%A1%95%E5%A3%AB%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95.docx)   
+[2017年软件学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年软件学院硕士专业目录.docx)   
 [2018年软件学院硕士研究生招生专业目录](http://p235kcav5.bkt.clouddn.com/2018%E5%B9%B4%E8%BD%AF%E4%BB%B6%E5%AD%A6%E9%99%A2%E7%A1%95%E5%A3%AB%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95.docx)
 ### 报录比  
 #### 1. 2013年北邮报录比  
-![2013年北邮报录比](http://p235kcav5.bkt.clouddn.com/2013%E5%B9%B4%E5%8C%97%E9%82%AE%E6%8A%A5%E5%BD%95%E6%AF%94%E3%80%90%E5%AE%98%E6%96%B9%E3%80%91.jpg)
+![2013年北邮报录比](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2013年北邮报录比【官方】.jpg)
 #### 2. 2014年北邮报录比  
-![2014年北邮报录比](http://p235kcav5.bkt.clouddn.com/2014%E5%B9%B4%E5%8C%97%E9%82%AE%E6%8A%A5%E5%BD%95%E6%AF%94%E3%80%90%E5%AE%98%E6%96%B9%E3%80%91.jpg)
+![2014年北邮报录比](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2014年北邮报录比【官方】.jpg)
 #### 3. 2015年北邮报录比  
-![2015年北邮报录比](http://p235kcav5.bkt.clouddn.com/2015%E5%B9%B4%E5%8C%97%E9%82%AE%E6%8A%A5%E5%BD%95%E6%AF%94%E3%80%90%E5%AE%98%E6%96%B9%E3%80%91.jpg)
+![2015年北邮报录比](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2015年北邮报录比【官方】.jpg)
 #### 4. 2016年北邮报录比  
 [2016年北邮报录比](http://yzb.bupt.edu.cn/content/content.php?p=3_8_207)  
 #### 5. 2017年北邮报录比  
@@ -153,7 +154,7 @@
 2016年开始考803（自主命题）  
 
 ##### 1.1 大纲  
-[2016年803考试大纲](http://p235kcav5.bkt.clouddn.com/%E5%8C%97%E9%82%AE2016%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%BA%B2803.docx)   
+[2016年803考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/北邮2016计算机考纲803.docx)   
 [2017年803考试大纲](http://p235kcav5.bkt.clouddn.com/2017%E5%8C%97%E9%82%AE%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%BA%B2803%EF%BC%882016%E4%B8%8E2017%E7%9B%B8%E5%90%8C%EF%BC%89.docx)   
 [2018年803考试大纲](http://p235kcav5.bkt.clouddn.com/2018%E5%8C%97%E9%82%AE%E8%AE%A1%E7%AE%97%E6%9C%BA803%E8%80%83%E7%BA%B2.pdf)     
 ##### 1.2 803/408参考书目  
@@ -190,11 +191,11 @@
 `考研专刊（下）`主要内容为校内各院的实验室及导师情况介绍。（但部分实验室信息可能会信息滞后的情况~~）    
 
 #### 2. 2016年考研专刊  
-[2016年考研专刊（上）](http://p235kcav5.bkt.clouddn.com/2016%E5%B9%B4%E8%80%83%E7%A0%94%E4%B8%93%E5%88%8A%EF%BC%88%E4%B8%8A%EF%BC%89.pdf)  
-[2016年考研专刊（下）](http://p235kcav5.bkt.clouddn.com/2016%E5%B9%B4%E8%80%83%E7%A0%94%E4%B8%93%E5%88%8A%EF%BC%88%E4%B8%8B%EF%BC%89%20.pdf)
+[2016年考研专刊（上）](https://github.com/ningzimu/See_you_in_BUPT/raw/4a67893328a6c298c15df3333f009c96b0b6e867/2017files/2016年考研专刊（上）.pdf)  
+[2016年考研专刊（下）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016年考研专刊（下）%20.pdf)
 #### 3. 2017年考研专刊  
-[2017年考研专刊（上）](http://p235kcav5.bkt.clouddn.com/2017%E8%80%83%E7%A0%94%E4%B8%93%E5%88%8A%E4%B8%8A.pdf)   
-[2017年考研专刊（下）](http://p235kcav5.bkt.clouddn.com/2017%E8%80%83%E7%A0%94%E4%B8%93%E5%88%8A%E4%B8%8B.pdf)   
+[2017年考研专刊（上）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017考研专刊上.pdf)   
+[2017年考研专刊（下）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017考研专刊下.pdf)   
 #### 4. 2018年考研专刊  
 [2018年考研专刊（上）](http://p235kcav5.bkt.clouddn.com/2018%E8%80%83%E7%A0%94%E4%B8%93%E5%88%8A%EF%BC%88%E4%B8%8A%EF%BC%89.pdf)   
 [2018年考研专刊（下）](http://p235kcav5.bkt.clouddn.com/2018%E8%80%83%E7%A0%94%E4%B8%93%E5%88%8A%EF%BC%88%E4%B8%8B%EF%BC%89.pdf)   
@@ -280,15 +281,15 @@
 ##### 2.1 2016年国家线  
 > **公布时间**： 2016年3月11日     
   
-![2016年国家线-学硕](http://p235kcav5.bkt.clouddn.com/2016%E5%9B%BD%E5%AE%B6%E7%BA%BF%E3%80%90%E5%AD%A6%E7%A1%95%E3%80%91.jpg)  
+![2016年国家线-学硕](https://raw.githubusercontent.com/ningzimu/See_you_in_BUPT/master/2017files/2016%E5%9B%BD%E5%AE%B6%E7%BA%BF%E3%80%90%E5%AD%A6%E7%A1%95%E3%80%91.jpg)  
 
-![2016年国家线-专硕](http://p235kcav5.bkt.clouddn.com/2016%E5%9B%BD%E5%AE%B6%E7%BA%BF%E3%80%90%E4%B8%93%E7%A1%95%E3%80%91.jpg) 
+![2016年国家线-专硕](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016国家线【专硕】.jpg)   
 ##### 2.2 2017年国家线  
 > **公布时间**：2017年3月15日   
 
-![2017年国家线-学硕](http://p235kcav5.bkt.clouddn.com/2017%E5%9B%BD%E5%AE%B6%E7%BA%BF%E3%80%90%E5%AD%A6%E7%A1%95%E3%80%91.jpg) 
+![2017年国家线-学硕](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017国家线【学硕】.jpg) 
 
-![2017年国家线-专硕](http://p235kcav5.bkt.clouddn.com/2017%E5%9B%BD%E5%AE%B6%E7%BA%BF%E3%80%90%E4%B8%93%E7%A1%95%E3%80%91.jpg) 
+![2017年国家线-专硕](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017国家线【专硕】.jpg) 
 #### 3 校线  
 - 2016
 > 同2016年国家线    
@@ -352,16 +353,16 @@
 #### 5. 组线  
 ##### 5.1 计算机学院组线  
 - 2014年计算机学院组线       
-![2014年计算机学院组线](http://p235wty99.bkt.clouddn.com/2014%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BA%BF.jpg) 
+![2014年计算机学院组线](http://p235wty99.bkt.clouddn.com/2014%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BA%BF.jpg)  
 - 2016年计算机学院组线  
-![2016年计算机学院组线](http://p235wty99.bkt.clouddn.com/2016%E5%B9%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%99%A2%E7%BB%84%E7%BA%BF.jpg)    
+![2016年计算机学院组线](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016计算机院组线.xlsx)    
 - 2017年计算机学院组线  
-![2017年计算机学院组线](http://p235wty99.bkt.clouddn.com/2017%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BA%BF.jpg)   
+![2017年计算机学院组线](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017北邮计算机院组线.jpg)   
 ##### 5.2 网络技术研究院组线  
-- [2017年网络技术研究院组线](http://p235wty99.bkt.clouddn.com/2017%E5%B9%B4%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E9%99%A2%E5%90%84%E6%8B%9B%E7%94%9F%E6%96%B9%E5%90%91%E4%B8%8B%E9%99%90%E5%88%86%E6%95%B0.docx)
+- [2017年网络技术研究院组线](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网研院组线.docx)
 ##### 5.3 网络空间安全学院组线  
 - 2017年网络空间安全学院组线  
-![2017年网络空间安全学院组线](http://p235wty99.bkt.clouddn.com/2017%E7%BD%91%E5%AE%89%E9%99%A2%E7%BB%84%E7%BA%BF.jpg)  
+![2017年网络空间安全学院组线](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017网安院组线.jpg)  
 ##### 5.4 软件学院组线  
 - 2016年软件学院组线
 > - 学硕：  
@@ -381,16 +382,16 @@
 #### 6. 分数分析（**重要**）  
 ##### 6.1 2016年分数分析  
 - 2016年北邮计算机院初试成绩分布
-![2016年北邮计算机院初试成绩分布](http://p235kcav5.bkt.clouddn.com/2016%E5%8C%97%E9%82%AE%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E5%88%86%E6%95%B0%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.jpg)   
+![2016年北邮计算机院初试成绩分布](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016北邮计算机考研分数分布情况.jpg)   
 - 2016年北邮网研院初试成绩分布   
 ![2016年北邮网络技术研究院初试成绩分布](http://p235kcav5.bkt.clouddn.com/2016%E5%B9%B4%E5%8C%97%E9%82%AE%E7%BD%91%E7%A0%94%E9%99%A2%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.png)   
 ##### 6.2 2017年分数分析  
-- [2017年计算机学院初试成绩排名](http://p235kcav5.bkt.clouddn.com/2017%E5%B9%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E6%8E%92%E5%90%8D.docx)    
-- [2017年网络技术研究院初试成绩排名](http://p235kcav5.bkt.clouddn.com/2017%E5%B9%B4%E7%BD%91%E7%A0%94%E9%99%A2%E7%A1%95%E5%A3%AB%E6%8B%9B%E7%94%9F%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E6%8E%92%E5%90%8D.pdf)     
+- [2017年计算机学院初试成绩排名](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年计算机学院硕士研究生招生初试成绩排名.docx)    
+- [2017年网络技术研究院初试成绩排名](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网研院硕士招生初试成绩排名.pdf)     
 - [2017年网络技术研究院各组招生情况](http://p235kcav5.bkt.clouddn.com/2017%E5%B9%B4%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E9%99%A2%E5%90%84%E7%BB%84%E6%8B%9B%E7%94%9F%E6%83%85%E5%86%B5_by%20%E5%87%9D%E7%B4%AB%E6%9A%AE.pdf)    
 - [2013-2017年北邮网络技术研究院各中心招生人数](http://p235kcav5.bkt.clouddn.com/%E5%8C%97%E9%82%AE%E7%BD%91%E7%A0%94%E9%99%A2%E5%90%84%E4%B8%AD%E5%BF%83%E6%8B%9B%E7%94%9F%E4%BA%BA%E6%95%B0%EF%BC%882013-2017%EF%BC%89.xlsx)     
-- [2017年网络空间安全学院初试成绩排名](http://p235kcav5.bkt.clouddn.com/2017%E5%B9%B4%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%AE%89%E5%85%A8%E5%AD%A6%E9%99%A2%E7%A1%95%E5%A3%AB%E7%94%9F%E6%8B%9B%E7%94%9F%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E6%8E%92%E5%90%8D.docx)    
-- [2017年软件学院初试成绩排名](http://p235kcav5.bkt.clouddn.com/2017%E5%B9%B4%E8%BD%AF%E4%BB%B6%E5%AD%A6%E9%99%A2%E7%A1%95%E5%A3%AB%E7%94%9F%E6%8B%9B%E7%94%9F%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%E6%8E%92%E5%90%8D.docx)     
+- [2017年网络空间安全学院初试成绩排名](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网络空间安全学院硕士生招生初试成绩排名.docx)    
+- [2017年软件学院初试成绩排名](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年软件学院硕士生招生初试成绩排名.docx)     
 - 2017年北邮计算机拟录取考生初试成绩分布直方图
 > **直方图说明**：例如第一个直方图，横坐标`350`对应的是`29`。其含义为初初试成绩在区间`(340,350]`中的考生数有29人，其中`340`是指350的前一个横坐标。     
     
@@ -418,38 +419,38 @@
 ### 北邮复试进行时  
 #### 1. 复试细则  
 ##### 1.1 计算机学院复试细则  
-[2016年计算机学院复试细则](http://p235kcav5.bkt.clouddn.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A22016%E5%B9%B4%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F%E5%A4%8D%E8%AF%95%E7%BB%86%E5%88%99.doc)  
-[2017年计算机学院复试细则](http://p235kcav5.bkt.clouddn.com/2017%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2%E5%A4%8D%E8%AF%95%E7%BB%86%E5%88%99.docx)    
+[2016年计算机学院复试细则](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/计算机学院2016年硕士研究生招生复试细则.doc)  
+[2017年计算机学院复试细则](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017计算机学院复试细则.docx)    
 ##### 1.2 网络技术研究院复试细则  
 
 [2016年网研院复试细则](http://p235wty99.bkt.clouddn.com/2016%E5%8C%97%E9%82%AE%E7%BD%91%E7%A0%94%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F%E5%A4%8D%E8%AF%95%E7%BB%86%E5%88%99.docx)      
-[2016年网研院复试工作安排](http://p235kcav5.bkt.clouddn.com/2016%E5%B9%B4%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E9%99%A2%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F%E5%A4%8D%E8%AF%95%E5%B7%A5%E4%BD%9C%E5%AE%89%E6%8E%92.docx)     
-[2017年网研院复试细则](http://p235wty99.bkt.clouddn.com/%E5%8C%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E9%99%A22017%E5%B9%B4%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F%E5%A4%8D%E8%AF%95%E7%BB%86%E5%88%99.docx)    
-[2017年网研院复试工作安排](http://p235kcav5.bkt.clouddn.com/2017%E5%B9%B4%E7%BD%91%E7%A0%94%E9%99%A2%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F%E5%A4%8D%E8%AF%95%E5%B7%A5%E4%BD%9C%E5%AE%89%E6%8E%92.docx)  
+[2016年网研院复试工作安排](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016年网络技术研究院硕士研究生招生复试工作安排.docx)     
+[2017年网研院复试细则](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/北京邮电大学网络技术研究院2017年硕士研究生招生复试细则.docx)    
+[2017年网研院复试工作安排](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网研院硕士研究生招生复试工作安排.docx)  
 
 ##### 1.3 网络空间安全学院复试细则 
 
-[2017年网安院复试细则](http://p235kcav5.bkt.clouddn.com/%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%AE%89%E5%85%A8%E5%AD%A6%E9%99%A22017%E5%B9%B4%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F%E5%A4%8D%E8%AF%95%E7%BB%86%E5%88%99.docx)    
+[2017年网安院复试细则](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/网络空间安全学院2017年硕士研究生招生复试细则.docx)    
 ##### 1.4 软件学院复试细则  
 
-[2017年软件学院复试细则](http://p235kcav5.bkt.clouddn.com/%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%AE%89%E5%85%A8%E5%AD%A6%E9%99%A22017%E5%B9%B4%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F%E5%A4%8D%E8%AF%95%E7%BB%86%E5%88%99.docx)   
+[2017年软件学院复试细则](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/网络空间安全学院2017年硕士研究生招生复试细则.docx)   
 #### 2. 复试名单  
 ##### 2.1 计算机学院复试名单  
 
-[2017年计算机学院复试名单](http://p235kcav5.bkt.clouddn.com/2017%E5%B9%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F%E5%A4%8D%E8%AF%95%E5%90%8D%E5%8D%95.docx)
+[2017年计算机学院复试名单](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年计算机学院硕士研究生招生复试名单.docx)
 ##### 2.2 网络技术研究院复试名单  
 
-[2017年网研院复试名单](http://p235kcav5.bkt.clouddn.com/2017%E5%B9%B4%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E9%99%A2%E7%A1%95%E5%A3%AB%E7%94%9F%E6%8B%9B%E7%94%9F%E5%A4%8D%E8%AF%95%E5%90%8D%E5%8D%95.pdf)   
+[2017年网研院复试名单](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网络技术研究院硕士生招生复试名单.pdf)   
 ##### 2.3 网络空间安全学院复试名单  
-[2017年网安院复试名单](http://p235kcav5.bkt.clouddn.com/2017%E5%B9%B4%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%AE%89%E5%85%A8%E5%AD%A6%E9%99%A2%E7%A1%95%E5%A3%AB%E7%94%9F%E6%8B%9B%E7%94%9F%E5%A4%8D%E8%AF%95%E5%90%8D%E5%8D%95.docx)  
+[2017年网安院复试名单](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网络空间安全学院硕士生招生复试名单.docx)  
 ##### 2.4 软件学院复试名单  
-[2017年软件学院复试名单](http://p235kcav5.bkt.clouddn.com/2017%E5%B9%B4%E8%BD%AF%E4%BB%B6%E5%AD%A6%E9%99%A2%E7%A1%95%E5%A3%AB%E7%94%9F%E6%8B%9B%E7%94%9F%E5%A4%8D%E8%AF%95%E5%90%8D%E5%8D%95.docx)  
+[2017年软件学院复试名单](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年软件学院硕士生招生复试名单.docx)  
 #### 3. 复试-笔试  
 
 > **简介**：北邮笔试科目具体要求参见 [3.1 笔试科目](#31-笔试科目)，803笔试科目为6选4，考试时间为1小时，题型基本都是选择题。考试时一张试卷上面有6门科目的试题，考生可以任选四门作答。     
 
 ##### 3.1 笔试科目  
-[2017年北邮研究生复试笔试科目](http://p235kcav5.bkt.clouddn.com/2017%E5%B9%B4%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F%E5%85%A5%E5%AD%A6%E8%80%83%E8%AF%95%E5%A4%8D%E8%AF%95%E7%AC%94%E8%AF%95%E5%86%85%E5%AE%B9.docx)  
+[2017年北邮研究生复试笔试科目](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年硕士研究生入学考试复试笔试内容.docx)  
 ##### 3.2 笔试课件  
 [百度云下载](https://pan.baidu.com/s/1rabrec0)    
 密码: **6tmg**
@@ -467,26 +468,26 @@
 [百度云下载](https://pan.baidu.com/s/1mknA2Uk)    
 密码: **nh49**
 ##### 4.3 机试备考资料  
-[王道机试指南](http://p235kcav5.bkt.clouddn.com/%E3%80%8A2013%E5%B9%B4%E7%8E%8B%E9%81%93%E8%AE%BA%E5%9D%9B%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E6%9C%BA%E8%AF%95%E6%8C%87%E5%8D%97%E3%80%8B%20%281%29.pdf)  
+[王道机试指南](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/《2013年王道论坛计算机考研机试指南》.pdf)  
 #### 5. 复试结果  
 ##### 5.1 计算机学院复试结果  
-[2017年计算机学院复试结果](http://p235kcav5.bkt.clouddn.com/2017%E5%B9%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2%E7%A1%95%E5%A3%AB%E7%94%9F%E6%8B%9B%E7%94%9F%E5%A4%8D%E8%AF%95%E7%BB%93%E6%9E%9C.docx)  
+[2017年计算机学院复试结果](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年计算机学院硕士生招生复试结果.docx)  
 ##### 5.2 网络技术研究院复试结果  
-[2017年网研院复试结果](http://p235kcav5.bkt.clouddn.com/2017%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E9%99%A2%E7%A1%95%E5%A3%AB%E7%94%9F%E6%8B%9B%E7%94%9F%E5%A4%8D%E8%AF%95%E7%BB%93%E6%9E%9C.pdf)  
+[2017年网研院复试结果](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017网络技术研究院硕士生招生复试结果.pdf)  
 ##### 5.3 网络空间安全学院复试结果  
-[2017年网安院复试结果](http://p235kcav5.bkt.clouddn.com/2017%E5%B9%B4%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%AE%89%E5%85%A8%E5%AD%A6%E9%99%A2%E7%A1%95%E5%A3%AB%E7%94%9F%E6%8B%9B%E7%94%9F%E5%A4%8D%E8%AF%95%E7%BB%93%E6%9E%9C.docx)   
+[2017年网安院复试结果](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网络空间安全学院硕士生招生复试结果.docx)   
 ##### 5.4 软件学院复试结果  
-[2017年软件学院复试结果（学硕）](http://p235kcav5.bkt.clouddn.com/2017%E5%B9%B4%E8%BD%AF%E4%BB%B6%E5%AD%A6%E9%99%A2%E7%A1%95%E5%A3%AB%E7%94%9F%E6%8B%9B%E7%94%9F%E5%A4%8D%E8%AF%95%E7%BB%93%E6%9E%9C%EF%BC%88%E5%AD%A6%E7%A1%95%EF%BC%89.docx)      
-[2017年软件学院复试结果（专硕）](http://p235kcav5.bkt.clouddn.com/2017%E5%B9%B4%E8%BD%AF%E4%BB%B6%E5%AD%A6%E9%99%A2%E7%A1%95%E5%A3%AB%E7%94%9F%E6%8B%9B%E7%94%9F%E5%A4%8D%E8%AF%95%E7%BB%93%E6%9E%9C%EF%BC%88%E4%B8%93%E7%A1%95%EF%BC%89.docx)
+[2017年软件学院复试结果（学硕）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年软件学院硕士生招生复试结果（学硕硕）.docx)      
+[2017年软件学院复试结果（专硕）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年软件学院硕士生招生复试结果（专硕）.docx)
 ### 北邮拟录取名单  
 #### 1. 2015年北邮拟录取名单  
-[2015年北邮硕士研究生拟录取名单（统考）](http://p235kcav5.bkt.clouddn.com/2015%E5%B9%B4%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9F%E5%BD%95%E5%8F%96%E5%90%8D%E5%8D%95%E5%85%AC%E7%A4%BA%EF%BC%88%E7%BB%9F%E8%80%83%EF%BC%89.xls)     
-[2015年北邮计算机拟录取名单（初试分数降序版）](http://p235kcav5.bkt.clouddn.com/2015%E5%8C%97%E9%82%AE%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8B%9F%E5%BD%95%E5%8F%96%E5%90%8D%E5%8D%95%EF%BC%88%E5%88%9D%E8%AF%95%E5%88%86%E6%95%B0%E9%99%8D%E5%BA%8F%E7%89%88%EF%BC%89.pdf)   
+[2015年北邮硕士研究生拟录取名单（统考）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2015年硕士研究生拟录取名单公示（统考）.xls)     
+[2015年北邮计算机拟录取名单（初试分数降序版）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2015北邮计算机拟录取名单（初试分数降序版）.pdf)   
 #### 2. 2016年北邮拟录取名单  
-[2016年北邮硕士研究生拟录取名单（统考）](http://p235kcav5.bkt.clouddn.com/2016%E5%B9%B4%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9F%E5%BD%95%E5%8F%96%E5%90%8D%E5%8D%95%E5%85%AC%E7%A4%BA%EF%BC%88%E7%BB%9F%E8%80%83%EF%BC%89.pdf)     
-[2016年北邮计算机拟录取名单（初试分数降序版）](http://p235kcav5.bkt.clouddn.com/2016%E5%8C%97%E9%82%AE%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8B%9F%E5%BD%95%E5%8F%96%E5%90%8D%E5%8D%95%EF%BC%88%E5%88%9D%E8%AF%95%E5%88%86%E6%95%B0%E9%99%8D%E5%BA%8F%E7%89%88%EF%BC%89.pdf)    
+[2016年北邮硕士研究生拟录取名单（统考）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016年硕士研究生拟录取名单公示（统考）.pdf)     
+[2016年北邮计算机拟录取名单（初试分数降序版）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016北邮计算机拟录取名单（初试分数降序版）.pdf)    
 #### 3. 2017年北邮拟录取名单    
-[2017年北邮硕士研究生拟录取名单（统考）](http://p235kcav5.bkt.clouddn.com/2017%E5%B9%B4%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9F%E5%BD%95%E5%8F%96%E5%90%8D%E5%8D%95%E5%85%AC%E7%A4%BA.pdf)   
+[2017年北邮硕士研究生拟录取名单（统考）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年硕士研究生拟录取名单公示.pdf)   
 ### 关于调剂    
 > **注意**：以下情况仅适用于北邮校内调剂，校外调剂情况比较复杂，在此不再讨论。    
 
