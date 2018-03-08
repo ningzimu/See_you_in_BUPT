@@ -281,7 +281,7 @@
 ##### 2.1 2016年国家线  
 > **公布时间**： 2016年3月11日     
   
-![2016年国家线-学硕](https://raw.githubusercontent.com/ningzimu/See_you_in_BUPT/master/2017files/2016%E5%9B%BD%E5%AE%B6%E7%BA%BF%E3%80%90%E5%AD%A6%E7%A1%95%E3%80%91.jpg)  
+![2016年国家线-学硕](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016国家线【学硕】.jpg)  
 
 ![2016年国家线-专硕](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016国家线【专硕】.jpg)   
 ##### 2.2 2017年国家线  
@@ -353,9 +353,9 @@
 #### 5. 组线  
 ##### 5.1 计算机学院组线  
 - 2014年计算机学院组线       
-![2014年计算机学院组线](http://p235wty99.bkt.clouddn.com/2014%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BA%BF.jpg)  
+![2014年计算机学院组线](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2014计算机组线.jpg)  
 - 2016年计算机学院组线  
-![2016年计算机学院组线](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016计算机院组线.xlsx)    
+![2016年计算机学院组线](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016年计算机院组线.jpg)    
 - 2017年计算机学院组线  
 ![2017年计算机学院组线](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017北邮计算机院组线.jpg)   
 ##### 5.2 网络技术研究院组线  
