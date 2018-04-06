@@ -15,7 +15,7 @@
 **前言**：选择永远比努力更重要！不畏难，不放弃，考研加油。相信坚持的力量！See you in BUPT ----by 凝紫暮
 ## 目录
 
-* [北京邮电大学](#北京邮电大学)
+* [北京邮电大学计算机考研信息汇总](#北京邮电大学计算机考研信息汇总)
 	* [初试篇](#初试篇)
 		* [北邮考研重要网站](#北邮考研重要网站)
 		* [招生专业目录](#招生专业目录)
@@ -68,6 +68,7 @@
 			* [6. 分数分析（重要）](#6-分数分析重要)
 				* [6.1 2016年分数分析](#61-2016年分数分析)
 				* [6.2 2017年分数分析](#62-2017年分数分析)
+				* [6.3 2018年分数分析](#63-2018年分数分析)
 		* [历史时间线](#历史时间线)
 			* [1. 2016年复试时间线](#1-2016年复试时间线)
 			* [2. 2017年复试时间线](#2-2017年复试时间线)
@@ -79,23 +80,26 @@
 				* [1.2 网络技术研究院复试细则](#12-网络技术研究院复试细则)
 				* [1.3 网络空间安全学院复试细则](#13-网络空间安全学院复试细则)
 				* [1.4 软件学院复试细则](#14-软件学院复试细则)
-			* [2. 复试名单](#2-复试名单)
-				* [2.1 计算机学院复试名单](#21-计算机学院复试名单)
-				* [2.2 网络技术研究院复试名单](#22-网络技术研究院复试名单)
-				* [2.3 网络空间安全学院复试名单](#23-网络空间安全学院复试名单)
-				* [2.4 软件学院复试名单](#24-软件学院复试名单)
-			* [3. 复试-笔试](#3-复试-笔试)
-				* [3.1 笔试科目](#31-笔试科目)
-				* [3.2 笔试课件](#32-笔试课件)
-			* [4. 复试-机试](#4-复试-机试)
-				* [4.1 机试环境](#41-机试环境)
-				* [4.2 机试真题](#42-机试真题)
-				* [4.3 机试备考资料](#43-机试备考资料)
-			* [5. 复试结果](#5-复试结果)
-				* [5.1 计算机学院复试结果](#51-计算机学院复试结果)
-				* [5.2 网络技术研究院复试结果](#52-网络技术研究院复试结果)
-				* [5.3 网络空间安全学院复试结果](#53-网络空间安全学院复试结果)
-				* [5.4 软件学院复试结果](#54-软件学院复试结果)
+			* [2. 初试成绩排名](#2-初试成绩排名)
+				* [2.1 2017年初试成绩排名](#21-2017年初试成绩排名)
+				* [2.2 2018年初试成绩排名](#22-2018年初试成绩排名)
+			* [3. 复试名单](#3-复试名单)
+				* [3.1 计算机学院复试名单](#31-计算机学院复试名单)
+				* [3.2 网络技术研究院复试名单](#32-网络技术研究院复试名单)
+				* [3.3 网络空间安全学院复试名单](#33-网络空间安全学院复试名单)
+				* [3.4 软件学院复试名单](#34-软件学院复试名单)
+			* [4. 复试-笔试](#4-复试-笔试)
+				* [4.1 笔试科目](#41-笔试科目)
+				* [4.2 笔试课件](#42-笔试课件)
+			* [5. 复试-机试](#5-复试-机试)
+				* [5.1 机试环境](#51-机试环境)
+				* [5.2 机试真题](#52-机试真题)
+				* [5.3 机试备考资料](#53-机试备考资料)
+			* [6. 复试结果](#6-复试结果)
+				* [6.1 计算机学院复试结果](#61-计算机学院复试结果)
+				* [6.2 网络技术研究院复试结果](#62-网络技术研究院复试结果)
+				* [6.3 网络空间安全学院复试结果](#63-网络空间安全学院复试结果)
+				* [6.4 软件学院复试结果](#64-软件学院复试结果)
 		* [北邮拟录取名单](#北邮拟录取名单)
 			* [1. 2015年北邮拟录取名单](#1-2015年北邮拟录取名单)
 			* [2. 2016年北邮拟录取名单](#2-2016年北邮拟录取名单)
@@ -298,6 +302,7 @@
 
 ---
 ## 复试篇  
+
 ### 分数线  
 #### 1. 分数线简介  
 北邮的分数线可以分为四种：`国家线`、`校线`、`院线`和`组线`
@@ -487,22 +492,35 @@
 
 
 #### 6. 分数分析（**重要**）  
+
 ##### 6.1 2016年分数分析  
 - 2016年北邮计算机院初试成绩分布
 ![2016年北邮计算机院初试成绩分布](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016北邮计算机考研分数分布情况.jpg)   
-- 2016年北邮网研院初试成绩分布   
+- 2016年北邮网研院初试成绩分布      
 ![2016年北邮网络技术研究院初试成绩分布](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/北邮网络技术研究院2016年考研成绩分布情况.jpg)   
 ##### 6.2 2017年分数分析  
-- [2017年计算机学院初试成绩排名](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年计算机学院硕士研究生招生初试成绩排名.docx)    
-- [2017年网络技术研究院初试成绩排名](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网研院硕士招生初试成绩排名.pdf)     
+
 - [2017年网络技术研究院各组招生情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网络技术研究院各组招生情况_by%20凝紫暮.pdf)    
 - [2013-2017年北邮网络技术研究院各中心招生人数](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/北邮网研院各中心招生人数（2013-2017）.xlsx)     
-- [2017年网络空间安全学院初试成绩排名](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网络空间安全学院硕士生招生初试成绩排名.docx)    
-- [2017年软件学院初试成绩排名](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年软件学院硕士生招生初试成绩排名.docx)     
 - 2017年北邮计算机拟录取考生初试成绩分布直方图
 > **直方图说明**：例如第一个直方图，横坐标`350`对应的是`29`。其含义为初初试成绩在区间`(340,350]`中的考生数有29人，其中`340`是指`350`的前一个横坐标。     
     
-![2017年北邮计算机拟录取考生初试成绩分布直方图](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017北邮计算机拟录取考生初试成绩分布直方图.jpg)
+![2017年北邮计算机拟录取考生初试成绩分布直方图](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017北邮计算机拟录取考生初试成绩分布直方图.jpg)       
+ 
+ 
+##### 6.3 2018年分数分析   
+
+- 各院各组招生情况分析      
+>   北邮报考最大的问题就是不知道每个组的招生人数，而报考时又恰恰报考到组。为了给报考同学提供更多有效的信息，特整理了各院的各组招生情况。包含`专业拟招生人数（含推免）`、各组的`复试人数`、`录取人数`、`录取最高分`、`录取最低分`、`录取平均分`等信息。       
+>   **特别提醒**：以下数据仅供参考，切勿**扎堆报考**。今年的低分组或许就可能是明年的高分组！请同学们在报名时务必结合自己的兴趣和复习效果，报考和自己能力相匹配的组！        
+
+ [2018年计算机学院各组招生情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年计算机学院各组招生情况%20by%20凝紫暮.pdf)     
+ [2018年网络技术研究院各组招生情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网络技术研究院各组招生情况%20by%20凝紫暮.pdf)     
+ [2018年网络空间安全学院各组招生情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网络空间安全学院各组招生情况%20by%20凝紫暮.pdf)      
+ [2018年软件学院各组招生情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年软件学院各组招生情况（全日制）by%20凝紫暮.pdf)     
+
+
+
 
 ### 历史时间线  
 #### 1. 2016年复试时间线  
@@ -570,67 +588,124 @@
 ![北邮复试整体流程图](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/北邮复试流程图.jpg)
 ### 北邮复试进行时  
 #### 1. 复试细则  
+> 复试细则比较重要，院线一般就在复试细则里面公布。除此之外，调剂政策，复试安排等信息也都包含在复试细则里面。复试细则是各院进行复试工作的指导性文件，请同学们务必重视！
 ##### 1.1 计算机学院复试细则  
 [2016年计算机学院复试细则](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/计算机学院2016年硕士研究生招生复试细则.doc)  
 [2017年计算机学院复试细则](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017计算机学院复试细则.docx)    
+[2018年计算机学院复试西贼](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年计算机学院硕士研究生招生复试细则.docx)    
+
 ##### 1.2 网络技术研究院复试细则  
 
 [2016年网研院复试细则](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/北京邮电大学网络技术研究院2016年硕士研究生招生复试细则.docx)      
 [2016年网研院复试工作安排](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016年网络技术研究院硕士研究生招生复试工作安排.docx)     
 [2017年网研院复试细则](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/北京邮电大学网络技术研究院2017年硕士研究生招生复试细则.docx)    
 [2017年网研院复试工作安排](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网研院硕士研究生招生复试工作安排.docx)  
+[2018年网研院复试细则](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网研院硕士研究生招生复试细则.docx)      
+[2018年网研院复试工作安排](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网研院研究生招生复试工作安排.docx)       
 
 ##### 1.3 网络空间安全学院复试细则 
 
 [2017年网安院复试细则](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/网络空间安全学院2017年硕士研究生招生复试细则.docx)    
+[2018年网安院复试细则](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网络空间安全学院硕士研究生招生复试细则.docx)     
+[2018年王安院复试工作安排](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网络空间安全学院硕士研究生招生复试工作安排.docx)     
+
 ##### 1.4 软件学院复试细则  
 
 [2017年软件学院复试细则](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/网络空间安全学院2017年硕士研究生招生复试细则.docx)   
-#### 2. 复试名单  
-##### 2.1 计算机学院复试名单  
+[2018年软件学院复试细则](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年北京邮电大学软件学院复试细则.docx)     
+
+#### 2. 初试成绩排名       
+
+> 北邮的初试成绩排名包含了所有过院线考生的初试成绩，并且按照初试成绩分组降序排序。这是北邮官方在复试细则出来后公开发布的成绩排名。考生可以在这个文件中看到自己确切的组内排名。     
+
+
+##### 2.1 2017年初试成绩排名    
+
+- [2017年计算机学院初试成绩排名](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年计算机学院硕士研究生招生初试成绩排名.docx)    
+- [2017年网络技术研究院初试成绩排名](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网研院硕士招生初试成绩排名.pdf)     
+- [2017年网络空间安全学院初试成绩排名](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网络空间安全学院硕士生招生初试成绩排名.docx)    
+- [2017年软件学院初试成绩排名](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年软件学院硕士生招生初试成绩排名.docx)       
+
+##### 2.2 2018年初试成绩排名    
+- [2018年计算机学院初试成绩排名](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年计算机学院学院硕士生招生初试成绩排名.doc)      
+- [2018年网络技术研究院初试成绩排名](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网研院硕士招生初试成绩排名.jpg)       
+- [2018年网络空间安全学院初试成绩排名](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网络空间安全学院硕士生招生初试成绩排名.pdf)      
+
+
+#### 3. 复试名单   
+ 
+>  **简介**：复试名单中会列出各组参加复试的人数、初试成绩、是否一志愿（原报）等信息。       
+
+
+##### 3.1 计算机学院复试名单  
 
 [2017年计算机学院复试名单](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年计算机学院硕士研究生招生复试名单.docx)
-##### 2.2 网络技术研究院复试名单  
+[2018年计算机学院复试名单(一)](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年计算机学院硕士生招生复试名单.pdf)       
+[2018年计算机学院复试名单(二)](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年计算机学院硕士研究生招生复试名单（二）.pdf)       
+[2018年计算机学院复试名单(三)](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018计算机学院硕士研究生招生复试名单（三）pdf.pdf)      
+
+##### 3.2 网络技术研究院复试名单  
 
 [2017年网研院复试名单](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网络技术研究院硕士生招生复试名单.pdf)   
-##### 2.3 网络空间安全学院复试名单  
+[2018年网研院复试名单](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网研院硕士招生复试名单.pdf)        
+
+##### 3.3 网络空间安全学院复试名单  
 [2017年网安院复试名单](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网络空间安全学院硕士生招生复试名单.docx)  
-##### 2.4 软件学院复试名单  
+[2018年网安院复试名单](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网络空间安全学院硕士生招生复试名单.pdf)      
+
+##### 3.4 软件学院复试名单  
 [2017年软件学院复试名单](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年软件学院硕士生招生复试名单.docx)  
-#### 3. 复试-笔试  
+[2018年软件学院学硕复试名单](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年北京邮电大学软件学院软件工程学术型硕士（专业代码：083500）复试名单.xlsx)        
+[2018年软件学院全日制专硕复试名单](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年北京邮电大学软件学院软件工程全日制专业学位硕士（专业代码：085212）复试名单.xlsx)     
+[2018年软件学院非全日制专硕复试名单](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年北京邮电大学软件学院软件工程非全日制专业学位%20硕士（专业代码：085212）复试名单.xlsx)   
+#### 4. 复试-笔试  
 
 > **简介**：北邮笔试科目具体要求参见 [3.1 笔试科目](#31-笔试科目)，803笔试科目为6选4，考试时间为1小时，题型基本都是选择题。考试时一张试卷上面有6门科目的试题，考生可以任选四门作答。     
 
-##### 3.1 笔试科目  
+##### 4.1 笔试科目  
 [2017年北邮研究生复试笔试科目](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年硕士研究生入学考试复试笔试内容.docx)  
-##### 3.2 笔试课件  
+##### 4.2 笔试课件  
 [百度云下载](https://pan.baidu.com/s/1rabrec0)    
 密码: **6tmg**
-#### 4. 复试-机试 
+#### 5. 复试-机试 
 > **简介**：北邮的机试在复试中还是比较重要，务必好好准备。     
 
-##### 4.1 机试环境  
+##### 5.1 机试环境  
 > - 支持语言：**C、C++、JAVA**
 > - 支持IDE：**Dev C++、Eclipse、Codeblocks、Cfree**（后两个不是很确定是否每一个机房都有）
 > - 机试考试在北邮OJ环境下进行。
 > - 罚时机制：提交后系统将检查所有测试用例后返回结果。如果没有成功通过，将产生20分钟的罚时，会影响相对排名，请尽量考虑周全并完成测试后再提交。
 > - 是否可以带资料：考生不允许随身携带手机等任何电子产品，但是可以携带纸质的书本等资料。
 
-##### 4.2 机试真题     
+##### 5.2 机试真题     
 [百度云下载](https://pan.baidu.com/s/1mknA2Uk)    
 密码: **nh49**
-##### 4.3 机试备考资料  
+##### 5.3 机试备考资料  
+[北邮OJ常见问题](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/北邮OJ常见问题.pdf)      
 [王道机试指南](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/《2013年王道论坛计算机考研机试指南》.pdf)  
-#### 5. 复试结果  
-##### 5.1 计算机学院复试结果  
+#### 6. 复试结果    
+> **简介**： 可以从复试结果中看到各组当年实际招收的人数和复试刷人情况。       
+
+
+##### 6.1 计算机学院复试结果  
 [2017年计算机学院复试结果](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年计算机学院硕士生招生复试结果.docx)  
-##### 5.2 网络技术研究院复试结果  
-[2017年网研院复试结果](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017网络技术研究院硕士生招生复试结果.pdf)  
-##### 5.3 网络空间安全学院复试结果  
+[2018年计算机学院复试结果(全日制)](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年计算机学院硕士招生复试结果（全日制）.pdf)    
+[2018年计算机学院复试结果(非全日制)](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年计算机学院硕士招生复试结果（非全日制）.pdf)     
+
+##### 6.2 网络技术研究院复试结果  
+[2017年网研院复试结果](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017网络技术研究院硕士生招生复试结果.pdf)    
+[2018年网研院复试结果]()
+##### 6.3 网络空间安全学院复试结果  
 [2017年网安院复试结果](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网络空间安全学院硕士生招生复试结果.docx)   
-##### 5.4 软件学院复试结果  
+[2018年网安院复试结果](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网络空间安全学院硕士研究生招生复试结果.pdf)    
+
+##### 6.4 软件学院复试结果  
 [2017年软件学院复试结果（学硕）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年软件学院硕士生招生复试结果（学硕硕）.docx)      
 [2017年软件学院复试结果（专硕）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年软件学院硕士生招生复试结果（专硕）.docx)
+[2018年软件学院复试结果（学硕）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年北京邮电大学软件学院学术型硕士复试结果公示.pdf)     
+[2018年软件学院复试结果（全日制专硕）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年北京邮电大学软件学院全日制专业硕士复试结果公示.pdf)      
+[2018年软件学院复试结果（非全日制专硕）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年北京邮电大学软件学院非全日制专业硕士复试结果公示.pdf)     
+
 ### 北邮拟录取名单  
 #### 1. 2015年北邮拟录取名单  
 [2015年北邮硕士研究生拟录取名单（统考）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2015年硕士研究生拟录取名单公示（统考）.xls)     
