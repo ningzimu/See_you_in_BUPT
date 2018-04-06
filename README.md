@@ -823,5 +823,5 @@
 3. 欢迎加入北邮考研QQ交流群：**460294132**，非考研辅导机构。如有文件下载链接失效，请到群文件中下载。    
 4. 维护更新这个考研信息汇总实属不易，耗费了我大量的时间和精力。如果这个北邮考研信息汇总对您考研有所帮助，您可以给我小额打赏。
 <div align="center">
-<img src="https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/Screenshot.png"  height="100" width="100">
+<img src="https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/Screenshot1.png"  height="100" width="100">
  </div>
