@@ -738,7 +738,7 @@
 
 ##### 6.4 软件学院复试结果  
 [2017年软件学院复试结果（学硕）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年软件学院硕士生招生复试结果（学硕硕）.docx)      
-[2017年软件学院复试结果（专硕）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年软件学院硕士生招生复试结果（专硕）.docx)
+[2017年软件学院复试结果（专硕）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年软件学院硕士生招生复试结果（专硕）.docx)              
 [2018年软件学院复试结果（学硕）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年北京邮电大学软件学院学术型硕士复试结果公示.pdf)     
 [2018年软件学院复试结果（全日制专硕）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年北京邮电大学软件学院全日制专业硕士复试结果公示.pdf)      
 [2018年软件学院复试结果（非全日制专硕）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年北京邮电大学软件学院非全日制专业硕士复试结果公示.pdf)     
