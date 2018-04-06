@@ -704,14 +704,10 @@
 
 
 - 2018年机试真题回忆版     
-**计算机学院、软件学院**：（2018年两个学院题目一样）        
-
-[北邮2018计算机院考研复试上机题解+结果统计](https://blog.csdn.net/qq_37640597/article/details/79772948)        
-    
-
-[2018北邮计算机院机试真题](https://blog.csdn.net/birdreamer/article/details/79765019)        
-
-**网络技术研究院**：
+**计算机学院、软件学院**：（2018年两个学院题目一样）          
+[北邮2018计算机院考研复试上机题解+结果统计](https://blog.csdn.net/qq_37640597/article/details/79772948)            
+[2018北邮计算机院机试真题](https://blog.csdn.net/birdreamer/article/details/79765019)            
+**网络技术研究院**：          
 [2018北邮网研院机试真题](https://blog.csdn.net/birdreamer/article/details/79749068)         
 
 
