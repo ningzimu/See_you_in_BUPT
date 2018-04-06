@@ -226,6 +226,16 @@
 [2018年考研专刊（上）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018考研专刊（上）.pdf)   
 [2018年考研专刊（下）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018考研专刊（下）.pdf)   
 [2017级考研经验交流会PPT](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018考研经验交流会PPT.zip)(转自北邮人论坛考研专版)
+
+### 18级北邮考研经验分享       
+
+> 18年北邮考研已经结束。予人玫瑰，手有余香。群内热情的18级学长学姐们纷纷发扬互帮互助、乐于分享的北邮人精神，给学弟学妹们分享了一些北邮考研的经验。希望能给学弟学妹们提供指导，少走一些弯路。
+
+- [18年电子院跨考网研院803经验分享 by 工1度](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/18年电子院跨考网研803经验分享.docx)             
+- [18年跨考北邮计算机院经验分享 by ciphor ](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/v1考研心得.pdf)     
+- [18年二战跨考北邮计算机院经验分享  by DeamoV](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/考研经验分享ver1.0.pdf)        
+- [18年北邮理学院跨考网研院经验分享 by tzm](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/跨考803考研经验%20%20by--tzm.pdf)     
+- [18年通信工程跨考北邮网研院经验分享 by gakki](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/跨专业考研心得.pdf)
 ### 关于报考    
 > 解答群友们的高频报考问题        
 
@@ -664,6 +674,8 @@
 
 ##### 4.1 笔试科目  
 [2017年北邮研究生复试笔试科目](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年硕士研究生入学考试复试笔试内容.docx)  
+[2018年北邮研究生复试笔试科目](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年硕士研究生入学考试复试笔试内容.docx)       
+
 ##### 4.2 笔试课件  
 [百度云下载](https://pan.baidu.com/s/1rabrec0)    
 密码: **6tmg**
@@ -678,8 +690,16 @@
 > - 是否可以带资料：考生不允许随身携带手机等任何电子产品，但是可以携带纸质的书本等资料。
 
 ##### 5.2 机试真题     
-[百度云下载](https://pan.baidu.com/s/1mknA2Uk)    
-密码: **nh49**
+- [2018年之前的机试真题百度云下载链接（不全）](https://pan.baidu.com/s/1mknA2Uk)    
+密码: **nh49**          
+
+
+- 2018年机试真题回忆版     
+**计算机学院、软件学院**：（2018年两个学院题目一样）
+[北邮2018计算机院考研复试上机题解+结果统计](https://blog.csdn.net/qq_37640597/article/details/79772948) 
+[2018北邮计算机院机试真题](https://blog.csdn.net/birdreamer/article/details/79765019)
+**网络技术研究院**：
+[2018北邮网研院机试真题](https://blog.csdn.net/birdreamer/article/details/79749068)
 ##### 5.3 机试备考资料  
 [北邮OJ常见问题](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/北邮OJ常见问题.pdf)      
 [王道机试指南](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/《2013年王道论坛计算机考研机试指南》.pdf)  
@@ -694,7 +714,8 @@
 
 ##### 6.2 网络技术研究院复试结果  
 [2017年网研院复试结果](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017网络技术研究院硕士生招生复试结果.pdf)    
-[2018年网研院复试结果]()
+[2018年网研院复试结果](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网研院硕士生招生复试结果.pdf)        
+
 ##### 6.3 网络空间安全学院复试结果  
 [2017年网安院复试结果](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网络空间安全学院硕士生招生复试结果.docx)   
 [2018年网安院复试结果](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网络空间安全学院硕士研究生招生复试结果.pdf)    
@@ -784,4 +805,4 @@
 1. 以上所有报考信息来源于北邮官方网站，各大论坛、QQ群以及个人分析整理。在此衷心感谢各位热心的学长学姐！上述信息仅供各位学弟学妹们参考，本人不保证信息的绝对真实性与有效性。最后祝大家考研成功，梦圆北邮！
 2. 如有侵权，请联系我，第一时间删除。
 3. 欢迎加入北邮考研QQ交流群：**460294132**，非考研辅导机构。如有文件下载链接失效，请到群文件中下载。    
-
+4. 维护更新这个考研信息汇总实属不易，耗费了我大量的时间和精力。如果这个北邮考研信息汇总对您考研有所帮助，您可以给我小额打赏。
