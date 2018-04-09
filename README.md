@@ -239,11 +239,10 @@
 - [18年二战跨考北邮计算机院经验分享  by DeamoV](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/考研经验分享ver1.0.pdf)        
 - [18年北邮理学院跨考网研院经验分享 by tzm](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/跨考803考研经验%20%20by--tzm.pdf)     
 - [18年通信工程跨考北邮网研院经验分享 by gakki](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/跨专业考研心得.pdf)          
-- [18年0基础跨考北邮考研经验分享 by 啄木鸟](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/跨考心得 By啄木鸟.pdf)          
-- [18年矿大跨考北邮网研院考研经验分享 by 颗粒儿热舞](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/跨考803 .pdf)          
+- [18年0基础跨考北邮考研经验分享 by 啄木鸟](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/跨考心得%20By啄木鸟.pdf)          
+- [18年矿大跨考北邮网研院考研经验分享 by 颗粒儿热舞](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/跨考803%20.pdf)          
 
-更多北邮考研经验分享请关注：        
-[王道论坛：2015-2018年北邮考研经验贴汇总](http://www.cskaoyan.com/thread-649948-1-1.html)
+更多北邮考研经验分享请关注：[王道论坛：2015-2018年北邮考研经验贴汇总](http://www.cskaoyan.com/thread-649948-1-1.html)
 
 
 ### 关于报考    
