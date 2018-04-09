@@ -242,7 +242,7 @@
 - [18年0基础跨考北邮考研经验分享 by 啄木鸟](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/跨考心得 By啄木鸟.pdf)          
 - [18年矿大跨考北邮网研院考研经验分享 by 颗粒儿热舞](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/跨考803 .pdf)          
 
-更加北邮考研经验分享请关注：        
+更多北邮考研经验分享请关注：        
 [王道论坛：2015-2018年北邮考研经验贴汇总](http://www.cskaoyan.com/thread-649948-1-1.html)
 
 
