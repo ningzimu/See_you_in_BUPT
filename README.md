@@ -1,7 +1,7 @@
 # See you in BUPT
 
 [![GitHub watchers](https://img.shields.io/github/watchers/ningzimu/See_you_in_BUPT.svg?style=social&label=Watch&style=plastic)](https://github.com/ningzimu/See_you_in_BUPT/watchers)  [![GitHub Star](https://img.shields.io/github/stars/ningzimu/See_you_in_BUPT.svg)](https://github.com/ningzimu/See_you_in_BUPT/stargazers)  [![GitHub forks](https://img.shields.io/github/forks/ningzimu/See_you_in_BUPT.svg)](https://github.com/ningzimu/See_you_in_BUPT/network)  [![GitHub issues](https://img.shields.io/github/issues/ningzimu/See_you_in_BUPT.svg?style=plastic)](https://github.com/ningzimu/See_you_in_BUPT/issues)  
-北京邮电大学计算机考研报考资料、复试资料汇总 for 2019 --by 凝紫暮   
+北京邮电大学计算机考研报考资料、复试资料汇总 for 2019 --by 凝紫暮   
 
 > CSDN：[北京邮电大学计算机考研信息汇总](http://blog.csdn.net/qq_26815027/article/details/79129454)   
 > GitHub Pages:[北京邮电大学计算机考研信息汇总](https://ningzimu.github.io/See_you_in_BUPT)   
@@ -239,7 +239,11 @@
 - [18年二战跨考北邮计算机院经验分享  by DeamoV](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/考研经验分享ver1.0.pdf)        
 - [18年北邮理学院跨考网研院经验分享 by tzm](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/跨考803考研经验%20%20by--tzm.pdf)     
 - [18年通信工程跨考北邮网研院经验分享 by gakki](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/跨专业考研心得.pdf)          
+- [18年0基础跨考北邮考研经验分享 by 啄木鸟](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/跨考心得 By啄木鸟.pdf)          
+- [18年矿大跨考北邮网研院考研经验分享 by 颗粒儿热舞](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/跨考803 .pdf)          
 
+更加北邮考研经验分享请关注：        
+[王道论坛：2015-2018年北邮考研经验贴汇总](http://www.cskaoyan.com/thread-649948-1-1.html)
 
 
 ### 关于报考    
@@ -658,7 +662,7 @@
 
 ##### 3.1 计算机学院复试名单  
 
-[2017年计算机学院复试名单](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年计算机学院硕士研究生招生复试名单.docx)
+[2017年计算机学院复试名单](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年计算机学院硕士研究生招生复试名单.docx)         
 [2018年计算机学院复试名单(一)](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年计算机学院硕士生招生复试名单.pdf)       
 [2018年计算机学院复试名单(二)](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年计算机学院硕士研究生招生复试名单（二）.pdf)       
 [2018年计算机学院复试名单(三)](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018计算机学院硕士研究生招生复试名单（三）pdf.pdf)      
@@ -709,6 +713,7 @@
 [2018北邮计算机院机试真题](https://blog.csdn.net/birdreamer/article/details/79765019)            
 **网络技术研究院**：          
 [2018北邮网研院机试真题](https://blog.csdn.net/birdreamer/article/details/79749068)         
+[2018北邮网络技术研究院机试真题及心得](http://www.ccjblog.club/?p=85)
 
 
 ##### 5.3 机试备考资料  
