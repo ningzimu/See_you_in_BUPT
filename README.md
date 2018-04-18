@@ -655,7 +655,7 @@
 
 [2017年网安院复试细则](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/网络空间安全学院2017年硕士研究生招生复试细则.docx)    
 [2018年网安院复试细则](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网络空间安全学院硕士研究生招生复试细则.docx)     
-[2018年王安院复试工作安排](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网络空间安全学院硕士研究生招生复试工作安排.docx)     
+[2018年网安院复试工作安排](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网络空间安全学院硕士研究生招生复试工作安排.docx)     
 
 ##### 1.4 软件学院复试细则  
 
