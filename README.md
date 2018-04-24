@@ -677,7 +677,7 @@
 ##### 1.1 计算机学院复试细则  
 [2016年计算机学院复试细则](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/计算机学院2016年硕士研究生招生复试细则.doc)  
 [2017年计算机学院复试细则](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017计算机学院复试细则.docx)    
-[2018年计算机学院复试西贼](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年计算机学院硕士研究生招生复试细则.docx)    
+[2018年计算机学院复试细则](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年计算机学院硕士研究生招生复试细则.docx)    
 
 ##### 1.2 网络技术研究院复试细则  
 
