@@ -258,7 +258,7 @@
 > **简介**：BYR考研专刊分为上、下两刊，每年度由`北邮人论坛考研专版`发行两刊，BYR考研专刊是北邮考生的福利，望大家好好利用。
 其中:   
 `考研专刊（上）`主要内容为一些针对于北邮的考研经验分享，内容源于[北邮人论坛考研专版](http://bbs.cloud.icybee.cn/board/AimGraduate)里热情的已考上的学长学姐投稿分享。  
-`考研专刊（下）`主要内容为校内各院的实验室及导师情况介绍。（但部分实验室信息可能会信息滞后的情况~~）    
+`考研专刊（下）`主要内容为校内各院的实验室及导师情况介绍。（但部分实验室的信息可能会有所滞后~）    
 
 #### 2. 2016年考研专刊  
 [2016年考研专刊（上）](https://github.com/ningzimu/See_you_in_BUPT/raw/4a67893328a6c298c15df3333f009c96b0b6e867/2017files/2016年考研专刊（上）.pdf)  
@@ -283,7 +283,9 @@
 - [18年0基础跨考北邮考研经验分享 by 啄木鸟](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/跨考心得%20By啄木鸟.pdf)          
 - [18年矿大跨考北邮网研院考研经验分享 by 颗粒儿热舞](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/跨考803%20.pdf)          
 
-更多北邮考研经验分享请关注：[王道论坛：2015-2018年北邮考研经验贴汇总](http://www.cskaoyan.com/thread-649948-1-1.html)
+更多北邮考研经验分享请关注：      
+- [简书专题：北京邮电大学考研](https://www.jianshu.com/c/6e67c051e313)        
+- [王道论坛：2015-2018年北邮考研经验贴汇总](http://www.cskaoyan.com/thread-649948-1-1.html)    
 
 
 ### 关于报考    
@@ -363,7 +365,7 @@
 
 ##### 11. **报考学硕or专硕？**
 > 这个问题每年都有无数的人询问，其实北邮人论坛已经有很多优秀的回答了，大家可以参考一下。   
-> 不管是专硕还是学硕，在学费和奖学金制度上都是一样的（软件专硕除外），总体上来说其实差别不是很大，现简要列举一下各自的优缺点。     
+> 不管是专硕还是学硕，在学费（软件专硕除外）和奖学金制度上都是一样的，总体上来说其实差别不是很大，现简要列举一下各自的优缺点。     
 > > - 学硕 
 > > 优点：可以直博
 > > 缺点：研一的课比专硕要多一点点，毕业的论文要求可能要高一点        
@@ -596,12 +598,43 @@
 >   **简介**：北邮报考最大的问题就是不知道每个组的招生人数，而报考时又恰恰报考到组。为了给报考同学提供更多有效的信息，特整理了各院的各组招生情况。包含`专业拟招生人数（含推免）`、各组的`复试人数`、`录取人数`、`录取最高分`、`录取最低分`、`录取平均分`等信息。       
 >   **特别提醒**：以下数据仅供参考，切勿**扎堆报考**。今年的低分组或许就可能是明年的高分组！请同学们在报名时务必结合自己的兴趣和复习效果，报考和自己能力相匹配的组！        
 
- [2018年计算机学院各组招生情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年计算机学院各组招生情况%20by%20凝紫暮.pdf)     
+ [2018年计算机学院各组招生情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年计算机学院各组招生情况%20by%20凝紫暮.pdf)    
+ 2018年就算及学院各组招生情况简版          
+ ![2018年计算机学院各组招生情况（简版）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年计算机学院各组拟录取情况分析.jpg)         
+ 
  [2018年网络技术研究院各组招生情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网络技术研究院各组招生情况%20by%20凝紫暮.pdf)     
  [2018年网络空间安全学院各组招生情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网络空间安全学院各组招生情况%20by%20凝紫暮.pdf)      
  [2018年软件学院各组招生情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年软件学院各组招生情况（全日制）by%20凝紫暮.pdf)     
+- 2018年北邮计算机拟录取考生初试成绩分析      
+
+> **简介**：2018年北邮计算机学院、网络技术研究院、网络空间安全学院、软件学院共录取考生749人（`不含推免`）。其中：       
+全日制：606人         
+非全日制：143人          
+
+**具体情况见下表:**     
+![各院拟录取考生成绩分析表](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/各院拟录取考生成绩分析表.png)     
+**下面从不同尺度分析一下拟录取情况：**（`均不含推免`）     
+
+**1. 四个院的大汇总（具体到专业）**     
+![各个院的大汇总](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/各个院的大汇总.png)       
+**2. 四个院的整体拟录取情况**     
+![四个院的整体录取情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/四个院的整体录取情况.png)        
+**3. 计算机学院拟录取情况**      
+![计算机学院拟录取情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/计算机学院拟录取情况.png)      
+**4. 网络技术研究院拟录取情况**      
+![网络技术研究院拟录取情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/网络技术研究院拟录取情况.png)         
+**5. 网络空间安全学院拟录取情况**      
+![网络空间安全学院拟录取情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/网络空间安全学院.png)      
+**6. 软件学院学院拟录取情况**      
+![软件学院拟录取情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/软件学院拟录取情况.png)      
+
+- 2018年北邮计算机拟录取考生初试成绩分布直方图     
+> **简介**：考生可以在这里看到各学院各专业的拟录取考生初试成绩分布情况。        
+![2018年北邮计算机拟录取考生初试成绩分布直方图](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年各院拟录取考生初试成绩分布直方图.jpg)      
 
 
+
+ 
 
 
 ### 历史时间线  
@@ -770,12 +803,16 @@
 
 
 - 2018年机试真题回忆版     
+
+> **简介**：机试真题回忆版由热心的学长学姐所写，博客中的解答方法非官方公布的标准答案（官方不公布机试真题和答案），仅供同学们学习参考。          
+
 **计算机学院、软件学院**：（2018年两个学院题目一样）          
 [北邮2018计算机院考研复试上机题解+结果统计](https://blog.csdn.net/qq_37640597/article/details/79772948)            
 [2018北邮计算机院机试真题](https://blog.csdn.net/birdreamer/article/details/79765019)            
 **网络技术研究院**：          
 [2018北邮网研院机试真题](https://blog.csdn.net/birdreamer/article/details/79749068)         
-[2018北邮网络技术研究院机试真题及心得](http://www.ccjblog.club/?p=85)
+[2018北邮网络技术研究院机试真题及心得](http://www.ccjblog.club/?p=85)        
+[2018年北邮网络技术研究院机试第4题解答](https://paste.ubuntu.com/p/bqsYDXt2Bm/)        
 
 
 ##### 5.3 机试备考资料  
