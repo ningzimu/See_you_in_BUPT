@@ -598,13 +598,10 @@
 >   **简介**：北邮报考最大的问题就是不知道每个组的招生人数，而报考时又恰恰报考到组。为了给报考同学提供更多有效的信息，特整理了各院的各组招生情况。包含`专业拟招生人数（含推免）`、各组的`复试人数`、`录取人数`、`录取最高分`、`录取最低分`、`录取平均分`等信息。       
 >   **特别提醒**：以下数据仅供参考，切勿**扎堆报考**。今年的低分组或许就可能是明年的高分组！请同学们在报名时务必结合自己的兴趣和复习效果，报考和自己能力相匹配的组！        
 
- [2018年计算机学院各组招生情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年计算机学院各组招生情况%20by%20凝紫暮.pdf)    
- 2018年就算及学院各组招生情况简版          
- ![2018年计算机学院各组招生情况（简版）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年计算机学院各组拟录取情况分析.jpg)         
- 
- [2018年网络技术研究院各组招生情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网络技术研究院各组招生情况%20by%20凝紫暮.pdf)     
- [2018年网络空间安全学院各组招生情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网络空间安全学院各组招生情况%20by%20凝紫暮.pdf)      
- [2018年软件学院各组招生情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年软件学院各组招生情况（全日制）by%20凝紫暮.pdf)     
+ [2018年计算机学院各组招生情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年计算机学院各组招生情况%20by%20凝紫暮.pdf)        
+ [2018年网络技术研究院各组招生情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网络技术研究院各组招生情况%20by%20凝紫暮.pdf)      
+ [2018年网络空间安全学院各组招生情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年网络空间安全学院各组招生情况%20by%20凝紫暮.pdf)       
+ [2018年软件学院各组招生情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年软件学院各组招生情况（全日制）by%20凝紫暮.pdf)      
 - 2018年北邮计算机拟录取考生初试成绩分析      
 
 > **简介**：2018年北邮计算机学院、网络技术研究院、网络空间安全学院、软件学院共录取考生749人（`不含推免`）。其中：       
@@ -612,30 +609,32 @@
 非全日制：143人          
 
 **具体情况见下表:**     
-![各院拟录取考生成绩分析表](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/各院拟录取考生成绩分析表.png)     
-**下面从不同尺度分析一下拟录取情况：**（`均不含推免`）     
+![各院拟录取考生成绩分析表](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/各院拟录取考生成绩分析表.png)         
+
+**下面从不同尺度分析一下拟录取情况：**（`均不含推免`）          
 
 **1. 四个院的大汇总（具体到专业）**     
-![各个院的大汇总](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/各个院的大汇总.png)       
+![各个院的大汇总](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/各个院的大汇总.png)          
+
 **2. 四个院的整体拟录取情况**     
-![四个院的整体录取情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/四个院的整体录取情况.png)        
+![四个院的整体录取情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/四个院的整体录取情况.png)          
+
 **3. 计算机学院拟录取情况**      
-![计算机学院拟录取情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/计算机学院拟录取情况.png)      
+![计算机学院拟录取情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/计算机学院拟录取情况.png)           
+
 **4. 网络技术研究院拟录取情况**      
-![网络技术研究院拟录取情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/网络技术研究院拟录取情况.png)         
+![网络技术研究院拟录取情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/网络技术研究院拟录取情况.png)           
+
 **5. 网络空间安全学院拟录取情况**      
-![网络空间安全学院拟录取情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/网络空间安全学院.png)      
+![网络空间安全学院拟录取情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/网络空间安全拟录取情况.png)          
+
 **6. 软件学院学院拟录取情况**      
-![软件学院拟录取情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/软件学院拟录取情况.png)      
+![软件学院拟录取情况](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/软件学院拟录取情况.png)        
 
 - 2018年北邮计算机拟录取考生初试成绩分布直方图     
-> **简介**：考生可以在这里看到各学院各专业的拟录取考生初试成绩分布情况。        
+> **简介**：考生可以在这里看到各学院各专业的拟录取考生初试成绩分布情况。            
+
 ![2018年北邮计算机拟录取考生初试成绩分布直方图](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年各院拟录取考生初试成绩分布直方图.jpg)      
-
-
-
- 
-
 
 ### 历史时间线  
 #### 1. 2016年复试时间线  
@@ -921,7 +920,8 @@
 1. 以上所有报考信息来源于北邮官方网站，各大论坛、QQ群以及个人分析整理。在此衷心感谢各位热心的学长学姐！上述信息仅供各位学弟学妹们参考，本人不保证信息的绝对真实性与有效性。最后祝大家考研成功，梦圆北邮！
 2. 如有侵权，请联系我，第一时间删除。
 3. 欢迎加入北邮考研QQ交流群：**460294132**，非考研辅导机构。如有文件下载链接失效，请到群文件中下载。    
-4. 维护更新这个考研信息汇总实属不易，耗费了我大量的时间和精力。如果这个北邮考研信息汇总对您考研有所帮助，您可以给我小额打赏。感谢您的支持与鼓励！
+4. 维护更新这个考研信息汇总实属不易，耗费了我大量的时间和精力。如果这个北邮考研信息汇总对您考研有所帮助，您可以给我小额打赏，以激励我继续坚持更新和维护本汇总，帮助更多的考研人。感谢您的支持与鼓励！
 <div align="center">
 <img src="https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/Screenshot1.png"  height="100" width="100">
  </div>
+
