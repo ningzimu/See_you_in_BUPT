@@ -605,8 +605,8 @@
 - 2018年北邮计算机拟录取考生初试成绩分析      
 
 > **简介**：2018年北邮计算机学院、网络技术研究院、网络空间安全学院、软件学院共录取考生749人（`不含推免`）。其中：       
-全日制：606人         
-非全日制：143人          
+**全日制**：606人         
+**非全日制**：143人          
 
 **具体情况见下表:**     
 ![各院拟录取考生成绩分析表](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/各院拟录取考生成绩分析表.png)         
@@ -703,8 +703,6 @@
 ### 北邮复试进行时  
 #### 1. 复试细则  
 > **简介**：复试细则比较重要，院线一般就在复试细则里面公布。除此之外，调剂政策，复试安排等信息也都包含在复试细则里面。复试细则是各院进行复试工作的指导性文件，请同学们务必重视！       
-
-
 
 ##### 1.1 计算机学院复试细则  
 [2016年计算机学院复试细则](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/计算机学院2016年硕士研究生招生复试细则.doc)  
@@ -848,9 +846,13 @@
 [2015年北邮计算机拟录取名单（初试分数降序版）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2015北邮计算机拟录取名单（初试分数降序版）.pdf)   
 #### 2. 2016年北邮拟录取名单  
 [2016年北邮硕士研究生拟录取名单（统考）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016年硕士研究生拟录取名单公示（统考）.pdf)     
-[2016年北邮计算机拟录取名单（初试分数降序版）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016北邮计算机拟录取名单（初试分数降序版）.pdf)    
+[2016年北邮计算机拟录取名单（初试成绩降序版）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016北邮计算机拟录取名单（初试分数降序版）.pdf)    
 #### 3. 2017年北邮拟录取名单    
-[2017年北邮硕士研究生拟录取名单（统考）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年硕士研究生拟录取名单公示.pdf)   
+[2017年北邮硕士研究生拟录取名单（统考）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年硕士研究生拟录取名单公示.pdf)    
+#### 4. 2018年北邮拟录取名单      
+[2018年北邮统考硕士研究生拟录取名单](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年北京邮电大学统考硕士研究生拟录取名单.pdf)       
+[2018年北邮计算机拟录取名单（初试成绩降序版）](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年北邮计算机统考硕士研究生拟录取名单（初试成绩降序版）.pdf)                
+
 ### 关于调剂    
 > **注意**：以下情况仅适用于北邮校内调剂，校外调剂情况比较复杂，在此不再讨论。    
 
