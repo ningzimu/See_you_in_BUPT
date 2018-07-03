@@ -32,16 +32,17 @@
 			* [5. 2017年北邮报录比](#5-2017年北邮报录比)
 			* [6. 2017年北邮报录比](#6-2018年北邮报录比)
 		* [考试大纲](#考试大纲)
-			* [1. 803计算机学科基础综合](#1-803计算机学科基础综合)
-				* [1.1 大纲](#11-大纲)
-				* [1.2 803/408参考书目](#12-803408参考书目)
-			* [2. 804信号与系统](#2-804信号与系统)
+		    * [1. 801通信原理](#1-801通信原理)
+			* [2. 803计算机学科基础综合](#2-803计算机学科基础综合)
+				* [2.1 大纲](#21-大纲)
+				* [2.2 803/408参考书目](#22-803408参考书目)
 			* [3. 807软件工程专业综合](#3-807软件工程专业综合)
+			* [4. 811概率论](#4-811概率论)
 		* [专业课真题](#专业课真题)
 			* [1. 801真题](#1-801真题)
 			* [2. 803真题](#2-803真题)
-			* [3. 804真题](#3-804真题)
-			* [4. 807真题](#4-807真题)
+			* [3. 807真题](#3-807真题)
+			* [4. 811真题](#4-811真题)
 		* [BYR考研专刊](#byr考研专刊)
 			* [1. BYR考研专刊简介](#1-byr考研专刊简介)
 			* [2. 2016年考研专刊](#2-2016年考研专刊)
@@ -216,18 +217,22 @@
 ### 考试大纲    
 > **简介**：北邮计算机考研统考科目一般为`政治`、`数学一`、`英语一`和自主命题的`专业课`等。详见 [招生专业目录](#招生专业目录)，在这里可以看到自主命题专业课的考试大纲。        
 
-#### 1. 803计算机学科基础综合  
+#### 1. 801通信原理      
+[2018年801考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年北邮801考纲.docx)       
+
+
+#### 2. 803计算机学科基础综合  
 > **关于803和408**：   
 2009-2015年考408（全国统考）    
 2016年开始考803（自主命题）     
    
 > 备注：803和408的考纲相差不大，803相较于408更注重考查学生的基础，从近几年的考试情况看803难度低于408.       
 
-##### 1.1 大纲  
+##### 2.1 大纲  
 [2016年803考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/北邮2016计算机考纲803.docx)   
 [2017年803考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017北邮计算机考纲803（2016与2017相同）.docx)   
 [2018年803考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018北邮计算机803考纲.pdf)     
-##### 1.2 803/408参考书目  
+##### 2.2 803/408参考书目  
 >  北邮官方没有公布指定的803参考书。但由于803和408的考试大纲相近，所以一般还是推荐使用408的参考书目。         
 
 > 《数据结构》严蔚敏     
@@ -235,30 +240,37 @@
 > 《计算机组成原理》唐朔飞（或者白中英）    
 > 《操作系统》汤子瀛    
    
-#### 2. 804信号与系统  
-[2018年804考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018北邮804考纲.pdf)
 #### 3. 807软件工程专业综合  
-[2018年807考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018北邮软件工程807考纲.pdf)
+[2018年807考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018北邮软件工程807考纲.pdf)     
+#### 4. 811概率论  
+[2018年811考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年北邮811考纲.docx)     
+
 
 ### 专业课真题  
 > 北邮的专业课真题会在每年的8、9月份在[北京邮电大学研究生信息招生网](http://yzb.bupt.edu.cn)上公开供考生下载。届时，同学们可以在网站上下载真题，需要特别注意的是，北邮官方并不会公布真题答案。       
     
     
 #### 1. 801真题  
-[2017年801通信原理真题](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/801通信原理-2017.pdf)
+[2017年801通信原理真题](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/801通信原理-2017.pdf)    
+[2018年801通信原理真题](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/801通信原理-2018.pdf)     
 #### 2. 803真题  
 [2016年803计算机学科基础综合真题](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/803计算机学科基础综合-2016.pdf)   
-[2017年803计算机学科基础综合真题](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/803计算机学科基础综合-2017.pdf)     
-#### 3. 804真题  
-[2016年804信号与系统真题](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/北邮通信考研2016年804真题.pdf)    
-[2017年804信号与系统真题](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/804信号与系统-2017.pdf)
-#### 4. 807真题  
+[2017年803计算机学科基础综合真题](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/803计算机学科基础综合-2017.pdf)    
+[2018年803计算机学科基础综合真题](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/803计算机学科基础综合-2018.pdf)     
+ 
+#### 3. 807真题  
 [2013年807软件工程专业综合真题](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/807软件工程专业综合-2013.pdf)  
 [2014年807软件工程专业综合真题](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/807软件工程专业综合-2014.pdf)  
 [2015年807软件工程专业综合真题](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/807软件工程专业综合-2015.pdf)  
 [2016年807软件工程专业综合真题](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/807软件工程专业综合-2016.pdf)  
-[2017年807软件工程专业综合真题](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/807软件工程专业综合-2017.pdf)
+[2017年807软件工程专业综合真题](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/807软件工程专业综合-2017.pdf)    
+[2018年807软件工程专业综合真题](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/807软件工程专业综合-2018.pdf)    
 
+#### 4. 811真题  
+[2016年811概率论真题](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/811概率论-2016.pdf)    
+[2017年811概率论真题](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/811概率论-2017.pdf)     
+[2018年811概率论真题](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/811概率论-2018.pdf)     
+  
 ### BYR考研专刊  
 #### 1. BYR考研专刊简介  
 > **简介**：BYR考研专刊分为上、下两刊，每年度由`北邮人论坛考研专版`发行两刊，BYR考研专刊是北邮考生的福利，望大家好好利用。
