@@ -180,18 +180,21 @@
 #### 1. 计算机学院招生目录   
 [2016年计算机学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016年计算机学院硕士招生专业目录.jpg)  
 [2017年计算机学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年计算机学院硕士专业目录.docx)	    
-[2018年计算机学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018年计算机学院硕士专业目录.docx)
+[2018年计算机学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018年计算机学院硕士专业目录.docx)    
+[2019年计算机学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019年计算机学院硕士专业目录.docx)   
 #### 2. 网络技术研究院招生目录   
 [2016年网络技术研究院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016年网络技术研究院硕士招生专业目录.jpg)      
 [2017年网络技术研究院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网络技术研究院硕士专业目录.docx)	         
-[2018年网络技术研究院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018年网络技术研究院硕士专业目录.docx)	
+[2018年网络技术研究院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018年网络技术研究院硕士专业目录.docx)             
+[2019年网络技术研究院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019年网络技术研究院硕士专业目录.docx)       	
 #### 3. 网络空间安全学院招生目录  
 [2017年网络空间安全学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网络空间安全学院硕士专业目录.docx)	     
-[2018年网络空间安全学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018年网络空间安全学院硕士专业目录.docx)
+[2018年网络空间安全学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018年网络空间安全学院硕士专业目录.docx)      
+[2019年网络空间安全学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019年网络空间安全学院硕士专业目录.docx)    
 #### 4. 软件学院招生目录  
 [2017年软件学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年软件学院硕士专业目录.docx)   
 [2018年软件学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018年软件学院硕士专业目录.docx)         
-
+[2019年软件学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019年软件学院硕士专业目录.docx)    
 
 ### 报录比  
 > **简介**：可以在这里面找到历年北邮各学院、专业的具体报录信息和往年的考试均分等信息。供考研学子评估考研难度，为择校提供参考数据。         
