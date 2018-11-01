@@ -173,7 +173,7 @@
 - [软件学院](http://sse.bupt.edu.cn/)
 
 ### 招生专业目录  
-> **简介**：可以在招生专业目录里面找到学院的招生专业、人数、初试科目、和专业招生方向（组）等信息。        
+> **简介**：可以在招生专业目录里面找到学院的招生专业、人数、初试科目、和专业招生方向（组）等信息。[点击查看最新招生专业目录](https://yzb.bupt.edu.cn/content/content.php?p=8_4_65)      
 
 
 
@@ -181,20 +181,20 @@
 [2016年计算机学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016年计算机学院硕士招生专业目录.jpg)  
 [2017年计算机学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年计算机学院硕士专业目录.docx)	    
 [2018年计算机学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018年计算机学院硕士专业目录.docx)    
-[2019年计算机学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019年计算机学院硕士专业目录.docx)   
+[2019年计算机学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019年计算机学院硕士研究生招生专业目录.docx)   
 #### 2. 网络技术研究院招生目录   
 [2016年网络技术研究院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2016年网络技术研究院硕士招生专业目录.jpg)      
 [2017年网络技术研究院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网络技术研究院硕士专业目录.docx)	         
 [2018年网络技术研究院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018年网络技术研究院硕士专业目录.docx)             
-[2019年网络技术研究院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019年网络技术研究院硕士专业目录.docx)       	
+[2019年网络技术研究院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019年网络技术研究院硕士研究生招生专业目录.docx)       	
 #### 3. 网络空间安全学院招生目录  
 [2017年网络空间安全学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年网络空间安全学院硕士专业目录.docx)	     
 [2018年网络空间安全学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018年网络空间安全学院硕士专业目录.docx)      
-[2019年网络空间安全学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019年网络空间安全学院硕士专业目录.docx)    
+[2019年网络空间安全学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019年网络空间安全学院硕士研究生招生专业目录.docx)    
 #### 4. 软件学院招生目录  
 [2017年软件学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年软件学院硕士专业目录.docx)   
 [2018年软件学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018年软件学院硕士专业目录.docx)         
-[2019年软件学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019年软件学院硕士专业目录.docx)    
+[2019年软件学院硕士研究生招生专业目录](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019年软件学院硕士研究生招生专业目录.docx)    
 
 ### 报录比  
 > **简介**：可以在这里面找到历年北邮各学院、专业的具体报录信息和往年的考试均分等信息。供考研学子评估考研难度，为择校提供参考数据。         
@@ -215,15 +215,15 @@
 [2017年北邮报录比【Plus版】](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017年各院硕士研究生分专业报考录取情况表.xlsx)  **（推荐）**       
 
 #### 6. 2018年北邮报录比    
-![2018年北邮报录比](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018报录比.jpg)      
+[2018年北邮报录比【官方版】](https://yzb.bupt.edu.cn/content/content.php?p=3_9_338)
 
 
 ### 考试大纲    
-> **简介**：北邮计算机考研统考科目一般为`政治`、`数学一`、`英语一`和自主命题的`专业课`等。详见 [招生专业目录](#招生专业目录)，在这里可以看到自主命题专业课的考试大纲。        
+> **简介**：北邮计算机考研统考科目一般为`政治`、`数学一`、`英语一`和自主命题的`专业课`等，详见 [招生专业目录](#招生专业目录)。在这里可以看到自主命题专业课的考试大纲。        
 
 #### 1. 801通信原理      
 [2018年801考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年北邮801考纲.docx)       
-
+[2019年801考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019年北邮801考纲.docx)   
 
 #### 2. 803计算机学科基础综合  
 > **关于803和408**：   
@@ -235,7 +235,8 @@
 ##### 2.1 大纲  
 [2016年803考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/北邮2016计算机考纲803.docx)   
 [2017年803考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2017北邮计算机考纲803（2016与2017相同）.docx)   
-[2018年803考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018北邮计算机803考纲.pdf)     
+[2018年803考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018北邮计算机803考纲.pdf)    
+[2019年803考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019北邮计算机803考纲.docx)      
 ##### 2.2 803/408参考书目  
 >  北邮官方没有公布指定的803参考书。但由于803和408的考试大纲相近，所以一般还是推荐使用408的参考书目。         
 
@@ -245,9 +246,14 @@
 > 《操作系统》汤子瀛    
    
 #### 3. 807软件工程专业综合  
-[2018年807考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018北邮软件工程807考纲.pdf)     
+[2018年807考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2017files/2018北邮软件工程807考纲.pdf)    
+[2019年807考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2019files/2019北邮软件工程807考纲.docx)     
+
 #### 4. 811概率论  
-[2018年811考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年北邮811考纲.docx)     
+> 注意： 从2019考研起，北邮取消了811专业课考试科目
+
+[2018年811考试大纲](https://github.com/ningzimu/See_you_in_BUPT/raw/master/2018files/2018年北邮811考纲.docx) 
+    
 
 
 ### 专业课真题  
