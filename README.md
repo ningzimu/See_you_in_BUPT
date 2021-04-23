@@ -2,9 +2,9 @@
 
 [![GitHub watchers](https://img.shields.io/github/watchers/ningzimu/See_you_in_BUPT.svg?style=social&label=Watch&style=plastic)](https://github.com/ningzimu/See_you_in_BUPT/watchers)  [![GitHub Star](https://img.shields.io/github/stars/ningzimu/See_you_in_BUPT.svg)](https://github.com/ningzimu/See_you_in_BUPT/stargazers)  [![GitHub forks](https://img.shields.io/github/forks/ningzimu/See_you_in_BUPT.svg)](https://github.com/ningzimu/See_you_in_BUPT/network)  [![GitHub issues](https://img.shields.io/github/issues/ningzimu/See_you_in_BUPT.svg?style=plastic)](https://github.com/ningzimu/See_you_in_BUPT/issues)    
 
-北京邮电大学计算机考研报考资料、复试资料汇总 for 2020
+北京邮电大学计算机考研报考资料、复试资料汇总 for 2022
 
-> 适用报考范围：  **计算机学院**、**网络技术研究院**、**网络空间安全学院**、**软件学院**    
+> 适用报考范围：  **计算机学院（国家示范性软件学院）**、**网络空间安全学院**   
 > [QQ交流群1：**460294132**](http://qm.qq.com/cgi-bin/qm/qr?k=1NasEaSksTVPe2OvGM3LU5FJkazf_8A9)   
 > [QQ交流群2：**263763735**](http://qm.qq.com/cgi-bin/qm/qr?k=w1CXeJ46d23YQMEZQ7q1-S3MSdcu8X6m)
 
@@ -166,11 +166,10 @@
 
 ## 初试篇  
 ### 北邮考研重要网站  
-- [北邮人论坛](http://bbs.cloud.icybee.cn/board/AimGraduate)
-- [天勤论坛](http://www.csbiji.com/)
-- [王道论坛](www.cskaoyan.com)
+- [北邮人论坛(需要账号)](https://bbs.byr.cn/n/board/AimGraduate)
+- [王道论坛](http://www.cskaoyan.com/forum-87-1.html)
 - [北京邮电大学研招网](http://yzb.bupt.edu.cn)
-- [计算机学院](http://scs.bupt.edu.cn/cs_web/)
+- [计算机学院(国家示范性软件学院)](https://scs.bupt.edu.cn/)
 - [网络空间安全学院](http://scss.bupt.edu.cn/)
 
 ### 招生专业目录  
