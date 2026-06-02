@@ -1087,5 +1087,10 @@
 
 ## 致谢
 
-感谢以下人员对本仓库做出的贡献，如果你希望被添加到这个名单中，请与我联系。
-[凝紫暮 ](https://github.com/ningzimu) 
+感谢所有为本仓库做出贡献的同学。
+
+[![Contributors](https://contrib.rocks/image?repo=ningzimu/See_you_in_BUPT)](https://github.com/ningzimu/See_you_in_BUPT/graphs/contributors)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ningzimu/see_you_in_bupt&type=Date)](https://star-history.com/#ningzimu/see_you_in_bupt&Date)
