@@ -1093,4 +1093,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ningzimu/see_you_in_bupt&type=Date)](https://star-history.com/#ningzimu/see_you_in_bupt&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=ningzimu/see_you_in_bupt&type=Date)](https://star-history.dera.page/#ningzimu/see_you_in_bupt&Date)
